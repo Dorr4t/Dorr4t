@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @Dorr4t
-- 👀 I’m interested in C#
-- 🌱 I’m currently learning security
-- Dorr4t
+- 👋 Hi, I’m @Dorr4t 👀
+
